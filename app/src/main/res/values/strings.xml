@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USEVM</string>
+    <string name="no_account">Not have an account?<b>SignUp</b></string>
+</resources>
